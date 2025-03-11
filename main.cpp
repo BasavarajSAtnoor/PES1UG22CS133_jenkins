@@ -10,7 +10,7 @@ int main() {
     std::cin >> num2;
 
     // Calculating sum
-    sum = num1 + num2;
+    sum = num1 + num
 
     // Displaying result
     std::cout << "Sum: " << sum << std::endl;
